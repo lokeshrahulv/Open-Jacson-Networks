@@ -7,17 +7,14 @@ To find (a) average number of materials in the system (b) average number of mate
 Visual components and Python
 
 ## Theory
-
 ![image](https://user-images.githubusercontent.com/103921593/203239736-7b81f599-71a8-4ae7-b63e-5d98acd9ea54.png)
 
-
 ## Procedure :
-
 ![image](https://user-images.githubusercontent.com/103921593/203239789-bc870dce-6727-487b-a0e2-4fc3f5114889.png)
 
-
 ## Experiment:
-
+![Screenshot 2024-11-07 155320](https://github.com/user-attachments/assets/feedd66e-61e2-43a8-8dcd-45ce73519b21)
+![Screenshot 2024-11-07 155320](https://github.com/user-attachments/assets/d246b17d-964a-412b-84df-64ebc6095a0f)
 
 ## Program
 ### Name: LOKESH RAHUL V V
